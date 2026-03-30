@@ -1,0 +1,8 @@
+.vscode/
+.history/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+0316-熊易.md
+*.pdf
